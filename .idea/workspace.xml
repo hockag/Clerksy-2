@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="762c4c07-0003-4d26-a46c-2910c83e6696" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/girl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/guard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/image_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/logo_clerksy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/man_partner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/messages.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/table.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/womane_partner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/components/_back.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/components/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/components/_partner.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/components/_production.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/utils/_mixin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/utils/_placeholder.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/utils/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/utils/style.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2WUCrLFzu0ggTn8ACECVPWX9RLw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rospe\Documents\GitHub\Clerksy\src\img" />
+      <recent name="C:\Users\rospe\Documents\GitHub\Clerksy\src\fonts" />
+      <recent name="C:\Users\rospe\Documents\GitHub\Clerksy\src\scss\utils" />
+      <recent name="C:\Users\rospe\Documents\GitHub\Clerksy\src\css" />
+      <recent name="C:\Users\rospe\Documents\GitHub\Clerksy\src\scss\util" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="762c4c07-0003-4d26-a46c-2910c83e6696" name="Changes" comment="" />
+      <created>1696777970117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696777970117</updated>
+      <workItem from="1696777971789" duration="1057000" />
+      <workItem from="1696779052764" duration="459000" />
+      <workItem from="1696779528688" duration="2462000" />
+      <workItem from="1696952787810" duration="595000" />
+      <workItem from="1697987919570" duration="834000" />
+      <workItem from="1698322928715" duration="1779000" />
+      <workItem from="1698324753564" duration="401000" />
+      <workItem from="1698325206416" duration="5409000" />
+      <workItem from="1698337121650" duration="491000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

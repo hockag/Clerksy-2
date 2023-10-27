@@ -1,0 +1,30 @@
+.back {
+  background-color: $background-color;
+}
+
+.back-wrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 108%;
+  align-items: center;
+}
+
+.first-text h2 {
+  color: $almost-white;
+  font-family: Recoleta;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 65.25px;
+  width: 391px;
+}
+
+.first-text p {
+  color: $almost-white;
+  font-family: Noto Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+  width: 475px;
+}

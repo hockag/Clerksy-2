@@ -1,0 +1,44 @@
+.header {
+  background-color: $background-color;
+}
+
+.header-box {
+  display: flex;
+  justify-content: space-between;
+  width: 1180px;
+  align-items: center;
+  height: 100px;
+}
+
+.right-header-list {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  align-items: center;
+}
+
+.right-item a {
+  color: $almost-white;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+
+}
+
+.right-item button {
+  width: 141px;
+  height: 52px;
+  border-radius: 160px;
+  background: $green;
+  outline: none;
+  border: none;
+
+  color: $almost-white;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

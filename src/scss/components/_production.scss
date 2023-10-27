@@ -1,0 +1,35 @@
+.production {
+  background-color: $background-color;
+  height: 568px;
+
+  &-title {
+    color: $almost-white;
+    text-align: center;
+    font-family: Recoleta;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 54px;
+    padding-top: 66px;
+  }
+
+  &-information {
+    padding: 74px 130px 0px 130px;
+  }
+
+  &-list {
+    display: flex;
+    justify-content: space-between;
+  }
+
+
+  &-item-h5 {
+    color: $almost-white;
+    text-align: center;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+  }
+}
